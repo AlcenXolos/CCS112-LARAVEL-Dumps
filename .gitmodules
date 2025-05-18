@@ -1,0 +1,3 @@
+[submodule "Case_Study_App"]
+	path = Case_Study_App
+	url = https://github.com/AlcenXolos/CCS112-LARAVEL-Dumps.git
